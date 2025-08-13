@@ -4,13 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Expert;AI+Integration+Enthusiast+%F0%9F%A4%96;Building+Scalable+Applications+%F0%9F%8C%9F;Always+Learning+%26+Growing+%F0%9F%93%88" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
+
 
 ## 🌟 About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const ankit = {
@@ -23,9 +19,6 @@ const ankit = {
     funFact: "I debug code better than I debug my life! 😄"
 };
 ```
-
-<br><br>
-
 ## 🔥 What I Do
 
 <div align="center">
@@ -54,7 +47,6 @@ const ankit = {
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🔤 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,55 +62,14 @@ const ankit = {
 
 </div>
 
-## 🚀 Professional Journey
-
-<div align="center">
-
-### 💼 Current Role
-**🏢 Software Developer @ GeoGo Infotech** *(Aug 2024 - Present)*
-
-</div>
-
-```diff
-+ 🎯 Enhanced ChikuCab platform with 10+ new features
-+ ⚡ Improved page load time by 35%
-+ 📈 Boosted organic traffic by 40% through SEO strategies
-+ 🔥 Optimized backend queries and UI components
-+ 💡 Implemented data-driven SEO strategies
-```
-
-<div align="center">
-
-### 💻 Previous Experience
-**🌟 Web Developer Intern @ Treue Technology** *(Sep 2023 - Nov 2023)*
-
-</div>
-
-```diff
-+ ⚛️ Built responsive React.js components
-+ 📊 Improved user interaction time by 25%
-+ ✅ Achieved 100% on-time delivery
-+ 🤝 Collaborated with designers and developers
-```
-
 ## 🎓 Educational Background
 
 <div align="center">
 
 | 🎓 **Degree** | 🏫 **Institution** | 📅 **Duration** | 🏆 **Grade** |
 |:---:|:---:|:---:|:---:|
-| Master of Computer Applications (MCA) | IET Lucknow | 2020-2023 | 8.5 CGPA |
-| Bachelor of Science (B.Sc) | Mahatma Gandhi Kashi Vidyapeeth | 2017-2020 | - |
-
-</div>
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-🏆 **JavaScript Certification** - HackerRank  
-🥇 **SQL (Intermediate) Certification** - HackerRank  
-☕ **Java Certification** - HackerRank  
+| Master of Computer Applications (MCA) | IET Lucknow | 2021-2023 | 8.5 CGPA |
+| Bachelor of Science (B.Sc) | Mahatma Gandhi Kashi Vidyapeeth | 2017-2020 |  6.0 CGPA |
 
 </div>
 
@@ -137,42 +88,9 @@ const ankit = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Current Focus
-
 <div align="center">
-
-```javascript
-const currentGoals = {
-    learning: ["Advanced AI/ML Integration", "Performance Optimization"],
-    building: ["Scalable Web Applications", "Modern Tech Solutions"],
-    improving: ["SEO Strategies", "User Experience Design"],
-    exploring: ["New Technologies", "Industry Best Practices"]
-};
-```
-
-</div>
-
-## 🌈 Fun Section
-
-<div align="center">
-
-### 🎮 When I'm Not Coding...
-
-🎵 **Music Lover** | 📚 **Tech Blogger** | 🏏 **Cricket Fan** | 🍕 **Food Explorer**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-*"First, solve the problem. Then, write the code."* - John Johnson
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-
+<br>
+  
 **⭐ Thanks for visiting my profile! Have a great day! ⭐**
 
 </div>
