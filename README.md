@@ -78,13 +78,15 @@ const ankit = {
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=1A1B27&title_color=FF6B6B&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180">
+      <img src="https://github-readme-stats.vercel.app/api?username=AnkitSoni03&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00E7FF&text_color=FFFFFF" alt="GitHub Stats" height="180">
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=donut&theme=radical&hide_border=true&bg_color=1A1B27&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" height="180">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSoni03&layout=donut&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180">
     </td>
   </tr>
 </table>
+
+
 
 ---
 
